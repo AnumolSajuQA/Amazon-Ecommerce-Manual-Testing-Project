@@ -25,16 +25,30 @@ This project demonstrates manual testing of the Amazon UK Login and Registration
 | Failed | 1 |
 | Blocked | 0 |
 | Pass Percentage | 98.08% |
-# Defect Identified
-# DEF_REG_001
-Registration Name field accepts numeric inputs.
-# Expected Result:
-Name field should reject numeric inputs or display a validation message.
-# Actual Result:
-Name field accepts numeric values and allows user registration.
-# Severity:
-Medium
-# Test Environment
+## Defect Identified
+
+**Defect ID:** DEF_REG_001
+
+**Module:** Registration
+
+**Summary:** Registration Name field accepts numeric inputs.
+
+**Expected Result:** Name field should reject numeric inputs or display a validation message.
+
+**Actual Result:** Name field accepts numeric values and allows user registration.
+
+**Severity:** Medium
+## Tools Used
+- Microsoft Excel
+- GitHub
+- Google Chrome
+ ## Project Structure
+- Test Plan
+- Registration Module Test Cases
+- Login Module Test Cases
+- Defect Report
+- Test Summary Report
+## Test Environment
 - OS:Windows 11
 - Browser: Google Chrome
 - Testing Type: Manual Testing
