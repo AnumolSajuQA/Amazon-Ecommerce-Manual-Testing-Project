@@ -26,7 +26,7 @@ This project demonstrates manual testing of the Amazon UK Login and Registration
 | Blocked | 0 |
 | Pass Percentage | 98.08% |
 # Defect Identified
-## DEF_REG_001
+# DEF_REG_001
 Registration Name field accepts numeric inputs.
 # Expected Result:
 Name field should reject numeric inputs or display a validation message.
