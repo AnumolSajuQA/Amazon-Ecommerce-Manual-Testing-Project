@@ -60,7 +60,7 @@ This project demonstrates manual testing of the Amazon UK Login and Registration
 ![Login Module](Screenshots/Login_Screenshot.png)
 
 ### Defect Report
-![Defect Report](Screenshots/Defect%20Report_Screenshot.png)
+Screenshots/Defect Report_Screenshot .png
 
 ### Defect Evidence
 ![Defect Evidence](Screenshots/Defect_Registration%20name%20Field_Screenshot.png)
