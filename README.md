@@ -48,7 +48,25 @@ This project demonstrates manual testing of the Amazon UK Login and Registration
 - Login Module Test Cases
 - Defect Report
 - Test Summary Report
+## Screenshots
 
+### Test Plan
+![Test Plan](Screenshots/Test_Plan_Screenshot.png)
+
+### Registration Module Test Cases
+![Registration Module](Screenshots/Registration_Module_Screenshot.png)
+
+### Login Module Test Cases
+![Login Module](Screenshots/Login_Screenshot.png)
+
+### Defect Report
+![Defect Report](Screenshots/Defect_Report_Screenshot.png)
+
+### Defect Evidence
+![Defect Evidence](Screenshots/Defect_Registration_Name_Field_Screenshot.png)
+
+### Test Summary Report
+![Test Summary](Screenshots/Test_Summary_Report_Screenshot.png)
 
 ## Test Environment
 - OS:Windows 11
