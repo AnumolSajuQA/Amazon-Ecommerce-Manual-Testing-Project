@@ -72,5 +72,35 @@ This project demonstrates manual testing of the Amazon UK Login and Registration
 - OS:Windows 11
 - Browser: Google Chrome
 - Testing Type: Manual Testing
+
+  ## Jira Project Management
+
+This project was managed using Jira Scrum methodology.
+
+### User Stories
+- User Registration
+- Registration Form Validation
+
+### Sprint Planning
+- Sprint 1: Registration Module Testing
+- Sprint 2: Defect Tracking and Sprint Completion
+
+### Jira Workflow
+TO DO → IN PROGRESS → DONE
+
+### Jira Evidence
+
+#### Product Backlog
+![Backlog](backlog.png)
+
+#### User Story
+![User Story](story.png)
+
+#### Bug Created
+![Bug](bug.png)
+
+#### Sprint Completed
+![Sprint Completed](sprint_completed.png)
+
   # Author
   Anumol Saju
