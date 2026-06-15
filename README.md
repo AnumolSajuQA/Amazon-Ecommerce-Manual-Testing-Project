@@ -3,13 +3,13 @@ Manual Testing Project for Amazon UK Login and Registration Modules.
 # Project Overview
 This project demonstrates manual testing of the Amazon UK Login and Registration modules.
 
-## Key Activities
-
+# Key Activities
 - Requirement Analysis
 - Test Case Design
 - Defect Reporting
 - Test Summary Reporting
 - Jira Scrum Project Management
+
 # Scope
 - User Registration
 - User Login
@@ -18,13 +18,15 @@ This project demonstrates manual testing of the Amazon UK Login and Registration
 - Create Account Functionality
 - Forgot Password Link
 - Keep Me Signed In Option
+
   # Testing Activities
   - Test Planning
   - Test Case Design
   - Test Execution
   - Defect Reporting
   - Test Summary Reporting
-  ## Test Execution Summary
+
+   ## Test Execution Summary
 
 | Metric | Count |
 |---------|---------|
