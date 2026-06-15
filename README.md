@@ -1,5 +1,5 @@
 # Amazon-Ecommerce-Manual-Testing-Project-with-Jira-Scrum-Board
-Manual Testing Project for Amazon UK Login and Registration Modules.
+Manual Testing Project for Amazon UK Login and Registration Modules including Requirement Analysis, Test Case Design, Defect Reporting, Test Summary Reporting, and Jira Scrum Project Management.
 # Project Overview
 This project demonstrates manual testing of the Amazon UK Login and Registration modules.
 
